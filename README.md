@@ -12,7 +12,10 @@
 SDGs our project align with are Good Health and Well Being, and Zero Hunger.
 
 ### Problem Statement:  
-By studying the United Nations SDGs our team felt that all the Goals are interconnected and cannot be completely eradicated while others are still taking place. Hunger is a challenge to humanity being poor is not just a bane but can incapacitate people to explore life and have a healthy life. Many people cannot afford to buy fruits and vegetables due to their increasing prices. Conventional farming also has lot of drawbacks and is affecting the environment in many ways.
+- By studying the United Nations SDGs our team felt that all the Goals are interconnected and cannot be completely eradicated while others are still taking place. Hunger is a challenge to humanity being poor is not just a bane but can incapacitate people to explore life and have a healthy life. 
+- DDT (dichloro-diphenyl-trichloroethane) used in agriculture has many negative affects on our lives.
+- Many people cannot afford to buy fruits and vegetables due to their increasing prices. 
+- Conventional farming also has lot of drawbacks and is affecting the environment in many ways.
 
 ### Solution: 
 
@@ -29,9 +32,11 @@ Hydroponics is where we grow vegetables and fruits without soil, fertilizers and
 
 <b>Join us in the modern and sustainable Agro revolution</b>
 
-Hydroponics is feasible as it decreasing the time between harvest and consumption increases the nutritional value of the end product. 
+Hydroponics is <b>feasible</b> as it decreases the time between harvest and consumption increases the nutritional value of the end product.  It requires very less investment and the yield will be 4x the normal percentage of yield as the process is done using vertical farming
 
-Hydroponics is credible as professional Hydroponic farmers and farm builders, designing practical, simple hydroponic agro solutions.
+Hydroponics is <b>credible</b> as professional Hydroponic farmers and farm builders, designing practical, simple hydroponic agro solutions.
+
+- Forexample, if a Cauliflower costs 28 - 30 rupees, using hydroponics method we can deliver it to customers for a price of around 22 rupees.
 
 ### Challenges we ran into:
 It was difficult to draft the business model for the project and to calculate the values of some vegetable if we grow using Hydroponics. Also we ran into some UI related issues.
